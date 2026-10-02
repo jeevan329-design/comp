@@ -1,0 +1,6 @@
+{
+  "name": "My Community",
+  "description": "Neighbours helping neighbours. Ask for help, offer what you can, and see your community come together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
